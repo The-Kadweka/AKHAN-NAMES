@@ -1,7 +1,7 @@
-### GHANIAN NAMES 
+### Akhan-name 
 + 18/08/2019
 ## Description
-web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
+web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. Akhan names are ghananian origin 
 ## BEHAVIOR DRIVEN DEVELOPMENT
 ### Behavior Driven Development (Specifications)
 | Behavior                 |           Input      |                 Output     |
@@ -16,7 +16,6 @@ web application that takes a user's birthday and calculates the day of the week 
 + html-used for writting code
 + js -used for making website interractive
 ## Support and contact details
-+ 0772328098
-+ ramanfatuu@gmail.com
++ katanahussein17@gmail.com
 ### License
 + MTI  license  
